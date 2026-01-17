@@ -1,4 +1,4 @@
-# Hi, I’m Prabha 👋
+# Hi, I’m Prabha Sapkota
 
 I’m a second-year engineering student from Nepal who genuinely enjoys building, learning, and understanding technology at a deeper level. I’m especially interested in how **software, systems, and AI** come together—and I’m committed to learning them properly, from the ground up.
 
@@ -27,7 +27,9 @@ I care about understanding *why* & *how* things work—not just making them work
 - C / C++  
 - JavaScript  
 - HTML, CSS
-- Matlab 
+- Matlab
+- SQL
+- Assembly(base-level)
 
 ### Web Development
 - UI/UX
@@ -72,11 +74,12 @@ I care about understanding *why* & *how* things work—not just making them work
 
 ---
 
-If you enjoy learning with intention and watching real growth unfold, you’re welcome to explore my work here.
 
 ## One thing about me
   Beyond the technical side, I’m deeply driven by curiosity, independence, and ambition. I enjoy learning things thoroughly, questioning assumptions, and building confidence through real competence.
 
  I’m intentional about owning my space, trusting my abilities, and growing without needing to be loud about it. I value patience, resilience, and showing up consistently — especially when progress is quiet.
 
+
+## So, If you enjoy learning with intention and watching real growth unfold, you’re welcome to explore my work here. Do leave a star to the project you found interesting or liked it. ##
 
