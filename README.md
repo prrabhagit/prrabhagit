@@ -34,7 +34,7 @@ I care about understanding *why* & *how* things work—not just making them work
 ### Web Development
 - UI/UX
 - Frontend: HTML, CSS, JavaScript, React  
-- Backend: Python (python for data science, APIs, core logic) 
+- Backend: Python 
 
 ### AI / ML
 - Python for data handling and ML  
