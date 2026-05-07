@@ -38,22 +38,29 @@ I care about understanding *why* & *how* things work—not just making them work
 - Matlab
 - SQL
 - Assembly(base-level)
+  
+### AI / Intelligent Systems
+- Python
+- AI APIs & system integration concepts
+- Prompt engineering fundamentals
+- Basic model understanding
+- Intelligent backend systems
 
 ### Web Development
 - UI/UX
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Python/djangi/flask
 
-### AI / ML
-- Python for data handling and **AI/ML**
-- Building **AI-based systems from 0**
+### Backend Systems
+- Python
+- SQL
+- REST APIs
+- Linux
 
-### Systems & Tools
-- Linux & command-line tools  
-- Git & GitHub  
-
----
-
+### Engineering Systems and Tools
+- Git & GitHub
+- VS Code
+  
 ## Current Focus
 
 - Strengthening core engineering fundamentals  
