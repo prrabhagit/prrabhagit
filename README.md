@@ -1,4 +1,7 @@
 # Hi, I’m Prabha Sapkota
+# Hi, I’m Prabha Sapkota 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Engineering+Student;Full+Stack+Developer;AI+Explorer;Linux+Enthusiast&center=true&size=22)
 
 I’m a second-year engineering student who genuinely enjoys building, learning, and understanding technology at a deeper level. I’m especially interested in how **software, systems, and AI** come together—and I’m committed to learning them properly, from the ground up.
 
