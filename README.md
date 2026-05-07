@@ -9,16 +9,17 @@ I’m a developer who genuinely enjoys building, learning, and understanding tec
 I like progress that’s steady, intentional, and meaningful.
 
 ---
-## GitHub Stats
+## 📊 Live Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrabhagit&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrabhagit&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prrabhagit&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=prrabhagit&theme=dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prrabhagit&theme=github-compact)
 ## About Me
 
-- Second-year engineering student  
-- Focused on **full-stack development (backend primary)** and **AI**  
-- Emphasis on **problem-solving** by **DSA**
+- Focused on **full-stack development (backend-focused)** and **AI**  
+- Emphasis on **problem-solving** with **DSA**
 - Exploring **electronics** to better understand hardware–software interaction  
 - Enjoy **creative coding** that blends math, logic, and visuals  
 - Value discipline, consistency, and long-term growth  
@@ -41,7 +42,7 @@ I care about understanding *why* & *how* things work—not just making them work
 ### Web Development
 - UI/UX
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Python 
+- Backend: Python/djangi/flask
 
 ### AI / ML
 - Python for data handling and **AI/ML**
@@ -67,7 +68,6 @@ I care about understanding *why* & *how* things work—not just making them work
 
 - **AI from 0** — learning and explaining AI/ML from scratch  
 - Web development projects and experiments  
-- DSA practice repositories  
 - Creative coding and math-based visual explorations
 - **Python-based voice assistant**
 
