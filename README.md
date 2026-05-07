@@ -88,5 +88,5 @@ I care about understanding *why* & *how* things work—not just making them work
  I’m intentional about owning my space, trusting my abilities, and growing without needing to be loud about it. I value patience, resilience, and showing up consistently — especially when progress is quiet.
 
 
-## So, If you enjoy learning with intention and watching real growth unfold, you’re welcome to explore my work here. Do leave a star to the project you found interesting or liked it. ##
+## If you enjoy learning with intention and watching real growth unfold, you’re welcome to explore my work here. Do leave a star to the project you found interesting or liked it. ##
 
