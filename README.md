@@ -1,20 +1,24 @@
-# Hi, I’m Prabha Sapkota
+
+
 # Hi, I’m Prabha Sapkota 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Engineering+Student;Full+Stack+Developer;AI+Explorer;Linux+Enthusiast&center=true&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+Enthusiast;System+Thinker;Building+Scalable+Software&center=true&size=22)
 
-I’m a second-year engineering student who genuinely enjoys building, learning, and understanding technology at a deeper level. I’m especially interested in how **software, systems, and AI** come together—and I’m committed to learning them properly, from the ground up.
+I’m a developer who genuinely enjoys building, learning, and understanding technology at a deeper level. I’m especially interested in how **software, systems, and AI** come together—and I’m committed to learning them properly, from the ground up.
 
 I like progress that’s steady, intentional, and meaningful.
 
 ---
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrabhagit&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prrabhagit&theme=radical)
 ## About Me
 
 - Second-year engineering student  
-- Focused on **full-stack development** and **AI/ML**  
-- Learning **DSA step by step**, with emphasis on clarity and problem-solving  
-- Comfortable working in **Linux** and interested in system-level concepts  
+- Focused on **full-stack development (backend primary)** and **AI**  
+- Emphasis on **problem-solving** by **DSA**
 - Exploring **electronics** to better understand hardware–software interaction  
 - Enjoy **creative coding** that blends math, logic, and visuals  
 - Value discipline, consistency, and long-term growth  
@@ -36,13 +40,12 @@ I care about understanding *why* & *how* things work—not just making them work
 
 ### Web Development
 - UI/UX
-- Frontend: HTML, CSS, JavaScript, React  
+- Frontend: HTML, CSS, JavaScript, React
 - Backend: Python 
 
 ### AI / ML
-- Python for data handling and ML  
-- Neural networks & deep learning concepts  
-- Building **AI from 0** — documenting AI learning from first principles
+- Python for data handling and **AI/ML**
+- Building **AI-based systems from 0**
 
 ### Systems & Tools
 - Linux & command-line tools  
@@ -66,6 +69,7 @@ I care about understanding *why* & *how* things work—not just making them work
 - Web development projects and experiments  
 - DSA practice repositories  
 - Creative coding and math-based visual explorations
+- **Python-based voice assistant**
 
 ---
 
