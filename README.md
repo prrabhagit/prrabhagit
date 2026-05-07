@@ -49,7 +49,7 @@ I care about understanding *why* & *how* things work—not just making them work
 ### Web Development
 - UI/UX
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Python/djangi/flask
+- Backend: Python/Django/Flask
 
 ### Backend Systems
 - Python
