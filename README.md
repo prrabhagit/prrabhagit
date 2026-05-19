@@ -69,8 +69,7 @@ I care about understanding *why* & *how* things work—not just making them work
 
 - Strengthening core engineering fundamentals  
 - Writing clean, readable, and explainable code  
-- Building fewer projects, but building them well  
-- Improving problem-solving through consistent DSA practice
+- Building fewer projects, but building them well
 - Getting better at Machine Learning
 
 ---
