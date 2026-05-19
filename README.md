@@ -45,7 +45,7 @@ I care about understanding *why* & *how* things work—not just making them work
 - Prompt engineering fundamentals
 - Tenserflow, Keras, Scikit-learn, Transformers
 
-# Data handling
+### Data handling
 - NumPy
 - Pandas
 - Matplotlib
