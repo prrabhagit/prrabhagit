@@ -43,7 +43,7 @@ I care about understanding *why* & *how* things work—not just making them work
 - Python
 - AI APIs & system integration concepts
 - Prompt engineering fundamentals
-- Tenserflow, Keras, Scikit-learn, Transformers
+- Tensorflow, Keras, Scikit-learn, Transformers
 
 ### Data handling
 - NumPy
