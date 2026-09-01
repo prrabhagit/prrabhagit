@@ -31,13 +31,13 @@ I care about understanding *why* & *how* things work—not just making them work
 ## Tech Stack
 
 ### Languages
-- Python  
+- Python
+- Java (Distributed Network, JDBC, JavaFX, Backend Systems)
 - C / C++  
 - JavaScript  
 - HTML, CSS
 - Matlab
 - SQL
-- Assembly(base-level)
   
 ### AI / Intelligent Systems
 - Python
@@ -50,15 +50,16 @@ I care about understanding *why* & *how* things work—not just making them work
 - Pandas
 - Matplotlib
 
-### Web Development
+### Software Development
 - UI/UX
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python/Django/Flask
+- Java (Distributed Network, JDBC, ORM, JavaFX, Backend Systems)
 
 ### Backend Systems
 - Python
 - SQL
-- REST APIs
+- REST APIs -> Fast APIs
 - Linux
 
 ### Engineering Systems and Tools
