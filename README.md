@@ -32,7 +32,7 @@ I care about understanding *why* & *how* things work—not just making them work
 
 ### Languages
 - Python
-- Java (Distributed Network, JDBC, JavaFX, Backend Systems)
+- Java 
 - C / C++  
 - JavaScript  
 - HTML, CSS
