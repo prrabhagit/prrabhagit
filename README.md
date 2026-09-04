@@ -22,8 +22,8 @@ I'm a computer engineering student focused on **backend systems** and **AI**, wi
 -  Currently building full-stack and distributed systems projects in Java and Python
 -  Studying AI/ML from first principles — math, models, and mechanics, not just APIs
 -  Exploring electronics to understand the hardware–software boundary
--  Believe in fewer projects, built well, over many built shallow
--  Care about *why* something works, not just *that* it works
+-  Believe in projects built well, over built shallow
+
 
 ---
 
