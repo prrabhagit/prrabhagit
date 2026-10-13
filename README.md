@@ -5,7 +5,6 @@
 
 **Backend-Focused Developer · Systems Thinker · AI Enthusiast**
 
-*Building software from the ground up — understanding not just how things work, but why.*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;AI%2FML+Enthusiast;System+Thinker;Building+Scalable+Software)](https://git.io/typing-svg)
 
