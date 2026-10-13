@@ -78,9 +78,7 @@ I'm a computer engineering student focused on **backend systems** and **AI**, wi
 | **Creative Coding** | Math-based visual and generative explorations |
 | **Web Development** | Full-stack projects and experiments |
 
-*(Link individual repos here as they're ready — happy to wire up direct links.)*
 
----
 
 ## GitHub Stats
 
